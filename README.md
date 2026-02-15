@@ -33,7 +33,7 @@ This was the most fun part of the entire process, even though it was painful. I 
 
 ## Firmware
 
-This was by far the HARDEST part of the entire process as it was really confusing ( ive never writen code in C before so i had to learn everthing from GfG, and i took a little bit of help from gemini cuz i didnt understand write the config and stuff for QMK)
+This was by far the HARDEST part of the entire process as it was really confusing ( ive never writen code in C before so i had to learn everthing from GfG, and i took a little bit of help from gemini cuz i didnt understand what to write in the config and stuff for QMK)
 
 I wrote my firmware in QMK and you can find it in the REPO, the fully compiled one in the Production section
 
