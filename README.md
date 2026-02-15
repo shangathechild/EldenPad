@@ -11,7 +11,9 @@ Hello! This is my custom macropad for hackclub x amd Blueprint
 - I have two custom keycaps, one being the sekiro death symbol and the elden ring logo.
 ## PCB
 **schematic**
+
 <img width="807" height="588" alt="schematic" src="https://github.com/user-attachments/assets/7f147162-45c6-4f4a-a7f5-519be0ed544c" />
+
 Even though it says MINI LEDs the, footprint is mini E
 
 **pcb**
