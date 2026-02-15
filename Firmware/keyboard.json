@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Shashank Rao",
+    "keyboard_name": "elden_pad",
+    "maintainer": "shangathechild",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "ws2812": {
+        "pin": "GP3",
+        "driver": "vendor"
+    },
+    "rgblight": {
+        "led_count": 8,
+        "animations": {
+            "all": true
+        }
+    }
+    "encoder": {
+    "rotary": [
+        { "pin_a": "GP0", "pin_b": "GP26" }
+    ]
+    },   
+    "matrix_pins": {
+        "cols": ["GP4", "GP2", "GP1"],
+        "rows": ["GP29", "GP28", "GP27"]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 2, "y": 0 },
+
+                { "matrix": [1, 0], "x": 0, "y": 1 },
+                { "matrix": [1, 1], "x": 1, "y": 1 },
+                { "matrix": [1, 2], "x": 2, "y": 1 },
+
+                { "matrix": [2, 0], "x": 0, "y": 2 },
+                { "matrix": [2, 1], "x": 1, "y": 2 },
+                { "matrix": [2, 2], "x": 2, "y": 2 }
+            ]
+        }
+    }
+}
