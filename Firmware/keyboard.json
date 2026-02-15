@@ -15,7 +15,7 @@
         "driver": "vendor"
     },
     "rgblight": {
-        "led_count": 8,
+        "led_count": 6,
         "animations": {
             "all": true
         }
