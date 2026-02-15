@@ -17,7 +17,9 @@ Hello! This is my custom macropad for hackclub x amd Blueprint
 Even though it says MINI LEDs the, footprint is mini E
 
 **pcb**
+
 <img width="589" height="649" alt="PCB" src="https://github.com/user-attachments/assets/cc07e3a5-b5f8-4dcc-a168-a603f672bac5" />
+
 The wires look super messy, this is my first time and idk how to make it cleaner.
 
 ## CAD
